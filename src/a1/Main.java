@@ -5,5 +5,6 @@ public class Main {
         System.out.println("홍길동");  // 자신의 이름으로 변경
         World.run();
         World.run2();
+        Hello.run();
     }
 }
